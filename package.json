@@ -22,7 +22,8 @@
   },
   "homepage": "https://github.com/prowl/gulp-module-jshint",
   "dependencies": {
-    "gulp-jshint": "^1.8.4"
+    "gulp-jshint": "^1.8.4",
+    "jshint-stylish": "^0.4.0"
   },
   "devDependencies": {
     "gulp": "^3.8.7",
