@@ -1,6 +1,6 @@
 {
   "name": "gulp-module-jshint",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "jsHint integration with gulp-module",
   "main": "lib/index.js",
   "scripts": {
@@ -23,7 +23,8 @@
   "homepage": "https://github.com/prowl/gulp-module-jshint",
   "dependencies": {
     "gulp-jshint": "^1.8.4",
-    "jshint-stylish": "^0.4.0"
+    "jshint-stylish": "^0.4.0",
+    "jshint-html": "https://npm.fury.io/GTpAPYjxGn3jnpGRdN3L/thotjs/jshint-html/-/latest.tgz"
   },
   "devDependencies": {
     "gulp": "^3.8.7",
