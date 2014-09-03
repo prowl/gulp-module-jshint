@@ -1,6 +1,6 @@
 {
   "name": "gulp-module-jshint",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "jsHint integration with gulp-module",
   "main": "lib/index.js",
   "scripts": {
@@ -28,6 +28,7 @@
   },
   "devDependencies": {
     "gulp": "^3.8.7",
-    "gulp-module": "https://npm.fury.io/GTpAPYjxGn3jnpGRdN3L/thotjs/gulp-module/-/latest.tgz"
+    "gulp-module": "https://npm.fury.io/GTpAPYjxGn3jnpGRdN3L/thotjs/gulp-module/-/latest.tgz",
+    "should": "^4.0.4"
   }
 }
